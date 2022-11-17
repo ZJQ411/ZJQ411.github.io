@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 小学生, 北京小学, 2012
+* 初中生, 北京中学, 2014
+* 高中生, 北京高中, 2018 (expected)
 
 Work experience
 ======
 * Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * 农大
+  * Duties included: 学习
+  * Supervisor: Professor JU
 
 * Fall 2015: Research Assistant
   * Github University
