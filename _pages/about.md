@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "about me"
-excerpt: "About me"
+title: "about us"
+excerpt: "About use"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+123
 
-这是一个测试.
 
 
